@@ -1,0 +1,15 @@
+.header__lang-link {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 1.15;
+    margin-left: 1.5vw;
+    transition: opacity .82s linear;
+    opacity: 1;
+    color: white;
+    text-decoration: none;
+  }
+  
+  .header__lang-link:hover {
+    opacity: .6;
+  }

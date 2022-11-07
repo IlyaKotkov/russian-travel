@@ -1,0 +1,7 @@
+.intro {
+    margin: 0 auto;
+    max-width: calc(100% - 2*148px);
+    max-height: 34vw;
+    margin-left: 7.7vw;
+    margin-top: 7vh;   
+}

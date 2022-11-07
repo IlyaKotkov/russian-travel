@@ -1,0 +1,5 @@
+.lead {
+    margin: 0 auto;
+    margin-top: 4vh;
+    max-width: calc(100% - 2*148px);
+}
