@@ -1,0 +1,9 @@
+.place__website {
+    margin: 0;
+    padding: 0;
+    display: inline;
+    justify-self: flex-start;
+    align-self: end;
+    grid-row: 1;
+    grid-column: 2;
+}
