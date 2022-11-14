@@ -11,5 +11,11 @@
     text-align: center;
     justify-content: center;
     color: white;
-    
 }
+
+@media screen and (max-width: 1279px) {
+    .lead__title {
+        max-width: 70.3vw;  
+    }
+}
+    

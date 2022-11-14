@@ -1,7 +1,7 @@
 .footer {
     margin: 0 auto;
-    margin-top: 7.18vh;
-    margin-bottom: 1.8vh;
+    margin-top: 9vh;
+    margin-bottom: 2.3vh;
     max-width: calc(100% - 2*48px);
     display: flex;
     justify-content: space-between;

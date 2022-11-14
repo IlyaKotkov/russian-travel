@@ -1,7 +1,7 @@
 .place { 
     margin: 0;
     padding: 0;
-    margin-bottom: 80px;
+    margin-bottom: 7.8vh;
     display: grid;
     grid-template-columns: 1fr 2fr;
     column-gap: 40px;
@@ -11,3 +11,10 @@
 .place:last-child {
     margin-bottom: 0;
 }
+
+@media screen and (max-width: 1279px) {
+    .place {
+        column-gap: 32px;
+        margin-bottom: 6.3vh;
+    }
+ }

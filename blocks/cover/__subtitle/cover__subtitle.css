@@ -1,10 +1,17 @@
 .cover__subtitle {
     margin: auto;
     max-width: 28vw;
-    margin-top: 2.5vh;
+    margin-top: 3.1vh;
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
     line-height: 122%;
     color: #FFFFFF;
 }
+
+@media screen and (max-width: 1279px) {
+    .cover__subtitle {
+     max-width: 35.2vw;
+     margin-top: 2.5vh;
+    }
+ }

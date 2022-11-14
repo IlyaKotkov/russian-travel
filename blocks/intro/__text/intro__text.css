@@ -1,9 +1,14 @@
 .intro__text {
-    max-width: 54vw;
     color: white;
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
     line-height: 163%;
-    margin-top: 3vh;
+    margin-top: 3.9vh;
+}
+
+@media screen and (max-width: 1279px) {
+    .intro__text {
+        margin-top: 3.1vh;
+    }
 }

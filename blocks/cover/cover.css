@@ -1,5 +1,11 @@
 .cover {
     margin: 0 auto;
-    margin-top: 7.18vh;
-    max-width: calc(100% - 2*48px);
+    margin-top: 9vh;
+    max-width: calc(100% - 2*48px);  
 }
+
+@media screen and (max-width: 1279px) {
+    .cover {
+     max-width: 100%;
+    }
+ }

@@ -1,5 +1,12 @@
 .lead {
     margin: 0 auto;
-    margin-top: 4vh;
+    margin-top: 4.4vh;
     max-width: calc(100% - 2*148px);
+}
+
+@media screen and (max-width: 1279px) {
+   .lead {
+    max-width: calc(100% - 2*48px);
+    margin-top: 4.7vh;
+   }
 }

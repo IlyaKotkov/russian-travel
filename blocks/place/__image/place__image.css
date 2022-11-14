@@ -4,4 +4,7 @@
     max-width: 36vw;
     grid-row: 2;
     grid-column: 1;
+    max-width: 440px; 
+    max-height: 440px;
 }
+

@@ -5,6 +5,13 @@
     font-size: 72px;
     line-height: 106%;
     margin: 0 auto;
-    margin-top: 24vh;
+    margin-top: 23.9vh;
     color: #FFFFFF;
 }
+
+@media screen and (max-width: 1279px) {
+    .cover__title {
+     max-width: 54.7vw;
+     margin-top: 15.2vh;
+    }
+ }

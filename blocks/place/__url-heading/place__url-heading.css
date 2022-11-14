@@ -8,5 +8,11 @@
     letter-spacing: 2px;
     color: #AAAAAA;
     list-style-type: none;
-    margin-bottom: 0.94vw;
+    margin-bottom: 1.2vh;
 }
+
+@media screen and (max-width: 1279px) {
+    .place__url-heading {
+        margin-bottom: .9vh;
+    }
+ }
