@@ -35,4 +35,18 @@
     .cover__overlay {
      min-height: 50vh;
     }
- }
+}
+
+@media screen and (max-width: 1023px) {
+    .cover__overlay {
+     min-height: 46.9vh;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .cover__overlay {
+     min-height: 26.1vh;
+    }
+}
+
+

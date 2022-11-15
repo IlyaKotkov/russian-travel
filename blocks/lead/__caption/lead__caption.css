@@ -14,3 +14,17 @@
         max-width: 15.6vw; 
     }
 }
+
+@media screen and (max-width: 1023px) {
+    .lead__caption {
+        max-width: 20.8vw;
+        margin-left: 3.1vw; 
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .lead__caption {
+        max-width: 49.8vw;
+        margin-left: 5.0vw; 
+    }
+}

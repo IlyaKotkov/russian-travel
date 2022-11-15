@@ -1,0 +1,8 @@
+@media screen and (max-width: 767px) {
+    .footer__list {
+        margin-top: 4.2vh;
+    }
+    .footer__list:first-child {
+        margin-top: 0;
+    }
+}

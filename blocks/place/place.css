@@ -17,4 +17,21 @@
         column-gap: 32px;
         margin-bottom: 6.3vh;
     }
- }
+}
+
+@media screen and (max-width: 1023px) {
+    .place {
+        margin-bottom: 7.1vh;
+        column-gap: 28px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .place {
+        margin-bottom: 6.5vh;
+        display: flex;
+        flex-direction: column;
+        column-gap: 0;
+        row-gap: 0;  
+    }
+}

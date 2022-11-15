@@ -6,6 +6,19 @@
 
 @media screen and (max-width: 1279px) {
     .lead__image {
+        margin-top: 4.4vh;
+    }
+}
+
+@media screen and (max-width: 1023px) {
+    .lead__image {
         margin-top: 5.5vh;
     }
 }
+
+@media screen and (max-width: 767px) {
+    .lead__image {
+        margin-top: 5.2vh;
+    }
+}
+

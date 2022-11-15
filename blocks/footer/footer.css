@@ -6,3 +6,23 @@
     display: flex;
     justify-content: space-between;
 }
+
+@media screen and (max-width: 1023px) {
+    .footer {
+     margin-top: 8.8vh;
+     max-width: calc(100% - 2*24px);
+     margin-bottom: 2.3vh;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .footer {
+     margin-top: 8.3vh;
+     max-width: 58.1vw;  
+     margin-left: 2.1vh;   
+     margin-bottom: 3.1vh;
+     display: flex;
+     justify-content: flex-start;
+     flex-direction: column;
+    }
+}

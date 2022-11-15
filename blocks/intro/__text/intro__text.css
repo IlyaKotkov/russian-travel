@@ -12,3 +12,16 @@
         margin-top: 3.1vh;
     }
 }
+
+@media screen and (max-width: 1023px) {
+    .intro__text {
+        margin-top: 3.9vh;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .intro__text {
+        margin-top: 5.2vh;
+        max-width: 90.0vw;
+    }
+}

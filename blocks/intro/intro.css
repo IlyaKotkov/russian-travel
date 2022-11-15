@@ -1,6 +1,6 @@
 .intro {
     margin: 0;
-    max-height: 41.9vh;
+    min-height: 41.9vh;
     margin-top: 11.1vh;  
     max-width: 53.9vw;
     margin-left: 11.6vw;
@@ -11,5 +11,21 @@
         margin-left: 4.7vw;
         max-width: 67.4vw;
         margin-top: 8.9vh;
+    }
+}
+
+@media screen and (max-width: 1023px) {
+    .intro {
+        margin-left: 3.1vw;
+        max-width: 93.8vw;
+        margin-top: 8.6vh;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .intro {
+        margin: 0 auto;
+        max-width: calc(100% - 2*16px);
+        margin-top: 8.6vh;
     }
 }

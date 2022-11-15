@@ -7,3 +7,12 @@
     grid-row: 1;
     grid-column: 2;
 }
+
+@media screen and (max-width: 767px) {
+    .place__website {
+        display: flex;
+        flex-direction: column;
+        align-self: flex-start;
+        margin-left: 5.0vw;
+    }
+}
