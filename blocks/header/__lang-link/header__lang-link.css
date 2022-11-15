@@ -1,17 +1,23 @@
 .header__lang-link {
-    font-style: normal;
-    font-weight: 400;
-    font-size: 24px;
-    line-height: 1.15;
-    margin-left: 1.5vw;
-    transition: opacity .82s linear;
-    opacity: 1;
-    color: white;
-    text-decoration: none;
+  padding: 0;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 1.15;
+  margin: 0 18px 6px 0;
+  transition: opacity .82s linear;
+  opacity: 1;
+  color: white;
+  text-decoration: none;
+  text-align: right;
 }
   
-.header__lang-link:hover {font-size: 18px;
+.header__lang-link:hover {
   opacity: .6;
+}
+
+.header__lang-link:last-child {
+  margin-right: 0;
 }
 
 @media screen and (max-width: 767px) {

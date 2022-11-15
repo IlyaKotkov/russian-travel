@@ -1,24 +1,18 @@
 .lead__image {
     max-width: 100%;
     width: 100%;
-    margin-top: 6.3vh;
+    margin-top: 64px;
 }
 
 @media screen and (max-width: 1279px) {
     .lead__image {
-        margin-top: 4.4vh;
-    }
-}
-
-@media screen and (max-width: 1023px) {
-    .lead__image {
-        margin-top: 5.5vh;
+        margin-top: 56px;
     }
 }
 
 @media screen and (max-width: 767px) {
     .lead__image {
-        margin-top: 5.2vh;
+        margin-top: 40px;
     }
 }
 

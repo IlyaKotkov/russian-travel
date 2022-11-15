@@ -12,5 +12,5 @@
 
 **Сайт**
 
-* [Ссылка на сайт github](https://github.com/IlyaKotkov/russian-travel.git)
+* [Ссылка на сайт github](https://ilyakotkov.github.io/russian-travel/)
 

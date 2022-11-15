@@ -8,25 +8,17 @@
     letter-spacing: 2px;
     color: #AAAAAA;
     list-style-type: none;
-    margin-bottom: 1.2vh;
-}
-
-@media screen and (max-width: 1279px) {
-    .place__url-heading {
-        margin-bottom: .9vh;
-    }
+    margin-bottom: 12px;
 }
 
 @media screen and (max-width: 1023px) {
     .place__url-heading {
-        margin-bottom: 1.2vh;
         line-height: 12px;
     }
 }
 
 @media screen and (max-width: 767px) {
     .place__url-heading {
-        margin-bottom: 1.6vh;
-        margin-top: 4.2vh;
+        margin-top: 32px;
     }
 }
