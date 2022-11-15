@@ -10,10 +10,8 @@
     text-decoration: none;
     position: relative;
     z-index: 0;
-    max-width: 100vw;
+    max-width: 1184px;
     min-height: 740px;
-    width: 100%;
-    height: 100%;
 }
 
 .cover__overlay::before {
@@ -35,20 +33,18 @@
 
 @media screen and (max-width: 1279px) {
     .cover__overlay {
-     min-height: 640px;
+        min-height: 640px;
     }
 }
 
 @media screen and (max-width: 1023px) {
     .cover__overlay {
-     min-height: 480px;
+        min-height: 480px;
     }
 }
 
 @media screen and (max-width: 767px) {
     .cover__overlay {
-     min-height: 200px;
+        min-height: 200px;
     }
 }
-
-

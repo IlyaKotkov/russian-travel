@@ -1,14 +1,14 @@
 .place__link {
-    font-style: normal;
-    font-weight: 400;
-    font-size: 18px;
-    line-height: 122%;
-    text-decoration-line: underline;
-    transition: opacity .2s linear;
-    opacity: 1;
-    color: white;
-  }
-  
-  .place__link:hover {
-    opacity: .6;
-  }
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 122%;
+  text-decoration-line: underline;
+  transition: opacity .2s linear;
+  opacity: 1;
+  color: white;
+}
+
+.place__link:hover {
+  opacity: .6;
+}

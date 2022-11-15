@@ -1,10 +1,10 @@
-.place { 
+.place {
     margin: 0;
     padding: 0;
     margin-bottom: 80px;
     display: grid;
     grid-template-columns: 1fr 2fr;
-    gap: 48px 40px;    
+    gap: 48px 40px;
 }
 
 .place:last-child {
@@ -29,6 +29,6 @@
         margin-bottom: 50px;
         display: flex;
         flex-direction: column;
-        gap: 0 0;  
+        gap: 0 0;
     }
 }
