@@ -2,7 +2,7 @@
     margin: 0 auto;
     max-width: 1184px;
     width: calc(100% - 2*48px);
-    margin-top: 92px;
+    margin-top: 90px;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: repeat(3, 1fr);

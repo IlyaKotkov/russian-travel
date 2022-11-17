@@ -1,6 +1,6 @@
 @media screen and (max-width: 767px) {
     .footer__list {
-        margin-top: 4.2vh;
+        margin-top: 32px;
     }
 
     .footer__list:first-child {

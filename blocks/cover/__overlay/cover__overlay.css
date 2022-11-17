@@ -48,11 +48,11 @@
 
 @media screen and (max-width: 767px) {
     .cover__overlay {
-        min-height: 400px;
+        min-height: 200px;
     }
 }
 
-@media screen and (max-width: 550px) {
+/*@media screen and (max-width: 550px) {
     .cover__overlay {
         min-height: 350px;
     }
@@ -62,4 +62,4 @@
     .cover__overlay {
         min-height: 200px;
     }
-}
+}*/
